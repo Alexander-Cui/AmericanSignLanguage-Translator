@@ -1,2 +1,9 @@
 Images/
 .vscode/
+.ipynb_checkpoints/
+hand/
+Images/
+model_predictions/
+Model_Weights/
+otherstuff/
+venv/
